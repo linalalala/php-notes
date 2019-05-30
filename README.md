@@ -136,5 +136,10 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [判断4个坐标点能否组成一个矩形](思维题/判断4个坐标点能否组成一个矩形.md)
   - [判断扑克牌顺子](思维题/判断扑克牌顺子.md)
   
+- shell
+  - CentOS7
+    - [CentOS7初始化](shell/CentOS7/CentOS7初始化.md)
+    - [安装Nginx](shell/CentOS7/安装Nginx.md)
+  
 - 报错总结
   - [HTTP推送服务400错误](报错总结/HTTP推送服务400错误.md)
