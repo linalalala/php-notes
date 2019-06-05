@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5a71c9-cdec-4107-a79d-cb6774b22cd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PHP/echo,print,print_r的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/echo,print,print_r的区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/isset和empty之间的区别是什么.md" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/isset和empty之间的区别是什么.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,19 +86,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="557">
-                <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -193,8 +190,8 @@
         <option value="$PROJECT_DIR$/Linux/文本处理工具sed.md" />
         <option value="$PROJECT_DIR$/PHP/echo,print,print_r的区别.md" />
         <option value="$PROJECT_DIR$/PHP/isset和empty之间的区别是什么.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -289,12 +286,12 @@
       <workItem from="1556937645393" duration="28584000" />
       <workItem from="1557586489811" duration="24631000" />
       <workItem from="1558596076542" duration="52957000" />
-      <workItem from="1559739350766" duration="4384000" />
+      <workItem from="1559739350766" duration="4525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387005000" />
+    <option name="totallyTimeSpent" value="387146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -792,21 +789,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="557">
-            <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
