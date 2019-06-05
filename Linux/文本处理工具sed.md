@@ -28,6 +28,11 @@ extension
 java
 java php
 extension
+
+# 替换的内容中有单引号怎么办
+# 如: external_url 'http://gitlab.example.com' 替换成 external_url 'http://gitlab.phpdev.com:8088'
+# 解决方法: 最外层的单引号换成双引号, 这样里面的单引号就不需要转义了, 但是/还是需要转义
+sed -i "s/external_url 'http:\/\/gitlab.example.com'/external_url 'http:\/\/gitlab.phpdev.com:8088'/" /etc/gitlab/gitlab.rb
 ```
 全局替换
 ```
