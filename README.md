@@ -5,6 +5,9 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
 </p>
 
 ### 最近更新
+- 2019/6/8
+  - [字符串截取的函数有哪些](PHP/字符串截取的函数有哪些.md)
+
 - 2019/6/5
   - [echo,print,print_r的区别](PHP/echo,print,print_r的区别.md)
   - [isset和empty之间的区别是什么](PHP/isset和empty之间的区别是什么.md)
