@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5a71c9-cdec-4107-a79d-cb6774b22cd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="md" value="128" />
+          <entry key="md" value="131" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="129" />
+          <entry key="Markdown" value="132" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="18093" />
+          <entry key="md" value="18371" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="18090" />
+          <entry key="Markdown" value="18368" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -87,12 +86,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="184">
-                <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+                <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP/error_reporting函数的作用是什么.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="640">
+                <caret line="53" column="113" selection-start-line="53" selection-start-column="113" selection-end-line="53" selection-end-column="113" />
               </first_editor>
               <second_editor />
             </state>
@@ -131,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/思维题/判断4个坐标点能否组成一个矩形.md" />
         <option value="$PROJECT_DIR$/思维题/判断扑克牌顺子.md" />
         <option value="$PROJECT_DIR$/Linux/samba.md" />
         <option value="$PROJECT_DIR$/PHP/写一个函数, 统计一个字符串中另一个字符串出现的次数.md" />
@@ -181,6 +191,7 @@
         <option value="$PROJECT_DIR$/PHP/echo,print,print_r的区别.md" />
         <option value="$PROJECT_DIR$/PHP/isset和empty之间的区别是什么.md" />
         <option value="$PROJECT_DIR$/PHP/字符串截取的函数有哪些.md" />
+        <option value="$PROJECT_DIR$/PHP/error_reporting函数的作用是什么.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -276,12 +287,12 @@
       <workItem from="1556937645393" duration="28584000" />
       <workItem from="1557586489811" duration="24631000" />
       <workItem from="1558596076542" duration="52957000" />
-      <workItem from="1559739350766" duration="7909000" />
+      <workItem from="1559739350766" duration="10590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390530000" />
+    <option name="totallyTimeSpent" value="393211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -336,16 +347,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP/求两个有序数组的公共元素.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/计算机网络/TCP和UDP的区别.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -793,7 +794,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="184">
-            <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/error_reporting函数的作用是什么.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="640">
+            <caret line="53" column="113" selection-start-line="53" selection-start-column="113" selection-end-line="53" selection-end-column="113" />
           </first_editor>
           <second_editor />
         </state>
