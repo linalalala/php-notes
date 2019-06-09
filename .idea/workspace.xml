@@ -59,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="md" value="133" />
+          <entry key="md" value="139" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="134" />
+          <entry key="Markdown" value="140" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="18578" />
+          <entry key="md" value="18655" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="18575" />
+          <entry key="Markdown" value="18652" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -90,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+              <first_editor relative-caret-position="276">
+                <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -130,9 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PHP/写一个函数, 统计一个字符串中另一个字符串出现的次数.md" />
-        <option value="$PROJECT_DIR$/PHP/求n以内的质数.md" />
-        <option value="$PROJECT_DIR$/PHP/求两个有序数组的公共元素.md" />
         <option value="$PROJECT_DIR$/MySQL/数据库三范式.md" />
         <option value="$PROJECT_DIR$/MySQL/MySQL索引.md" />
         <option value="$PROJECT_DIR$/MySQL/表的约束.md" />
@@ -180,6 +177,9 @@
         <option value="$PROJECT_DIR$/PHP/error_reporting函数的作用是什么.md" />
         <option value="$PROJECT_DIR$/PHP/考察单引号和双引号的区别.md" />
         <option value="$PROJECT_DIR$/PHP/描述一下常见的关于读取文件内容的PHP函数.md" />
+        <option value="$PROJECT_DIR$/PHP/如何获取客户端IP和服务端IP.md" />
+        <option value="$PROJECT_DIR$/PHP/include/include_once和require/require_once之间的区别.md" />
+        <option value="$PROJECT_DIR$/PHP/include、include_once、require、require_once之间的区别.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -275,18 +275,18 @@
       <workItem from="1556937645393" duration="28584000" />
       <workItem from="1557586489811" duration="24631000" />
       <workItem from="1558596076542" duration="52957000" />
-      <workItem from="1559739350766" duration="13892000" />
+      <workItem from="1559739350766" duration="14928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="396513000" />
+    <option name="totallyTimeSpent" value="397549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -299,7 +299,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19978285" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29641694" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -335,36 +335,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MySQL/表的约束.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/char和varchar数据类型的区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/CentOS7搭建samba实现与Win共享目录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="26" selection-start-column="26" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySQL/TINYINT(M)中M表示的含义是什么.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -791,11 +761,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/PHP/如何获取客户端IP和服务端IP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/include/include_once和require/require_once之间的区别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="48" selection-start-column="48" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/include、include_once、require、require_once之间的区别.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="230">
-            <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+            <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>

@@ -9,7 +9,11 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [error_reporting函数的作用是什么](PHP/error_reporting函数的作用是什么.md)
   - [考察单引号和双引号的区别](PHP/考察单引号和双引号的区别.md)
   - [描述一下常见的关于读取文件内容的PHP函数](PHP/描述一下常见的关于读取文件内容的PHP函数.md)
+  - [如何获取客户端IP和服务端IP](PHP/如何获取客户端IP和服务端IP.md)
+  - [include、include_once、require、require_once之间的区别](PHP/include、include_once、require、require_once之间的区别.md)
 
+  
+    
 - 2019/6/8
   - [字符串截取的函数有哪些](PHP/字符串截取的函数有哪些.md)
 
@@ -113,6 +117,8 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
     - [error_reporting函数的作用是什么](PHP/error_reporting函数的作用是什么.md)
     - [考察单引号和双引号的区别](PHP/考察单引号和双引号的区别.md)
     - [描述一下常见的关于读取文件内容的PHP函数](PHP/描述一下常见的关于读取文件内容的PHP函数.md)
+    - [如何获取客户端IP和服务端IP](PHP/如何获取客户端IP和服务端IP.md)
+    - [include、include_once、require、require_once之间的区别](PHP/include、include_once、require、require_once之间的区别.md)
   - 编程题
     - [给出多种方法反转字符串](PHP/给出多种方法反转字符串.md)
     - [写一个函数, 能够遍历一个文件夹下的所有文件和子文件夹](PHP/写一个函数,%20能够遍历一个文件夹下的所有文件和子文件夹.md)
