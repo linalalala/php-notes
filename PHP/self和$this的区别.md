@@ -31,7 +31,7 @@ class Animal
 // 类的外部访问
 // 10
 echo Animal::$age;
-$animal = new Animal();
+$animal = new Animal;
 // Animal
 echo $animal->name;
 
