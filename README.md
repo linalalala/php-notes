@@ -104,6 +104,7 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
     - [include、include_once、require、require_once之间的区别](PHP/include、include_once、require、require_once之间的区别.md)
     - [值传递和引用传递](PHP/值传递和引用传递.md)
     - [合并数组的方式有哪几种](PHP/合并数组的方式有哪几种.md)
+    - [写出PHP如何连接MySQL](PHP/写出PHP如何连接MySQL.md)
   - 面向对象
     - [重写和重载](PHP/重写和重载.md)
     - [self和$this的区别](PHP/self和$this的区别.md)

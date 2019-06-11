@@ -59,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="md" value="164" />
+          <entry key="md" value="165" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="165" />
+          <entry key="Markdown" value="166" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="20012" />
+          <entry key="md" value="20124" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="20006" />
+          <entry key="Markdown" value="20118" />
           <entry key="PHP" value="6" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -90,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="528">
-                <caret line="28" column="26" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="26" />
+              <first_editor relative-caret-position="390">
+                <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,23 +99,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Linux/top命令.md">
+        <entry file="file://$PROJECT_DIR$/PHP/写出PHP如何连接MySQL.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-644">
-                <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linux/free命令.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="298">
-                <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <first_editor relative-caret-position="436">
+                <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linux/取出Nginx日志里访问量前N的IP地址.md" />
         <option value="$PROJECT_DIR$/算法/认识时间复杂度.md" />
         <option value="$PROJECT_DIR$/算法/冒泡排序.md" />
         <option value="$PROJECT_DIR$/算法/选择排序.md" />
@@ -203,9 +190,10 @@
         <option value="$PROJECT_DIR$/PHP/常见魔术方法.md" />
         <option value="$PROJECT_DIR$/Linux/找出文本中含有'linux'的行,如何统计共有多少行.md" />
         <option value="$PROJECT_DIR$/Linux/Linux基本命令.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Linux/free命令.md" />
         <option value="$PROJECT_DIR$/Linux/top命令.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/PHP/写出PHP如何连接MySQL.md" />
       </list>
     </option>
   </component>
@@ -299,12 +287,12 @@
       <workItem from="1556937645393" duration="28584000" />
       <workItem from="1557586489811" duration="24631000" />
       <workItem from="1558596076542" duration="52957000" />
-      <workItem from="1559739350766" duration="36985000" />
+      <workItem from="1559739350766" duration="37457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419606000" />
+    <option name="totallyTimeSpent" value="420078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -359,16 +347,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/算法/小和问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="449">
-            <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法/荷兰国旗问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -804,16 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="528">
-            <caret line="28" column="26" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linux/free命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -827,8 +795,28 @@
     <entry file="file://$PROJECT_DIR$/Linux/top命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-644">
+          <first_editor relative-caret-position="-506">
             <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/写出PHP如何连接MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="436">
+            <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
