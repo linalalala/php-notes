@@ -25,6 +25,8 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [CentOS7搭建samba实现与Win共享目录](Linux/CentOS7搭建samba实现与Win共享目录.md)
   - [取出Nginx日志里访问量前N的IP地址](Linux/取出Nginx日志里访问量前N的IP地址.md)
   - [找出文本中含有'linux'的行,如何统计共有多少行](Linux/找出文本中含有'linux'的行,如何统计共有多少行.md)
+  - [free命令](Linux/free命令.md)
+  - [top命令](Linux/top命令.md)
 
 - 计算机网络
   - [计算机网络体系结构](计算机网络/计算机网络体系结构.md)
