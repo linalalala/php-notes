@@ -48,6 +48,10 @@ lrwxrwxrwx 1 root root 4 Aug 14  2018 /usr/bin/sh -> bash
 
 # 查看文件内容
     cat 文件名
+# 查看文本文件头部10行
+    head filename 
+# 查看文本文件头部20行
+    head -n 20 filename 
 # 实时查看文件最后n行(默认10行)内容
     tail -f 文件名
 # 实时查看文件最后n行内容(5表示行数)
