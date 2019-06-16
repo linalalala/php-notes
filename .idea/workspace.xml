@@ -59,25 +59,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="md" value="183" />
+          <entry key="md" value="184" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="184" />
+          <entry key="Markdown" value="185" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="21469" />
+          <entry key="md" value="21701" />
           <entry key="sh" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="21463" />
+          <entry key="Markdown" value="21695" />
           <entry key="PHP" value="6" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -90,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="298">
-                <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="21" />
+              <first_editor relative-caret-position="254">
+                <caret line="152" column="25" lean-forward="true" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,47 +99,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法/猫狗队列.md">
+        <entry file="file://$PROJECT_DIR$/容器/Docker基础操作.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="590">
-                <caret line="312" column="1" selection-start-line="312" selection-start-column="1" selection-end-line="312" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/两个栈实现一个队列.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2047">
-                <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/两个队列实现一个栈.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
-                <caret line="14" column="19" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/实现特殊的栈,返回栈中最小元素.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="138">
-                <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="19" />
+              <first_editor relative-caret-position="70">
+                <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/算法/归并排序.md" />
         <option value="$PROJECT_DIR$/算法/小和问题.md" />
         <option value="$PROJECT_DIR$/算法/荷兰国旗.md" />
         <option value="$PROJECT_DIR$/算法/荷兰国旗问题.md" />
@@ -228,8 +191,9 @@
         <option value="$PROJECT_DIR$/算法/实现特殊的栈,返回栈中最小元素.md" />
         <option value="$PROJECT_DIR$/算法/两个队列实现一个栈.md" />
         <option value="$PROJECT_DIR$/算法/两个栈实现一个队列.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/算法/猫狗队列.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/容器/Docker基础操作.md" />
       </list>
     </option>
   </component>
@@ -259,26 +223,6 @@
             <path>
               <item name="php-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="MySQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,12 +280,12 @@
       <workItem from="1557586489811" duration="24631000" />
       <workItem from="1558596076542" duration="52957000" />
       <workItem from="1559739350766" duration="40847000" />
-      <workItem from="1560576998870" duration="7008000" />
+      <workItem from="1560576998870" duration="8621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430476000" />
+    <option name="totallyTimeSpent" value="432089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,16 +340,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/算法/Java中的比较器之Comparator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-276">
-            <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法/堆排序.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -803,16 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="298">
-            <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法/两个栈实现一个队列.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -846,8 +770,28 @@
     <entry file="file://$PROJECT_DIR$/算法/猫狗队列.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="590">
+          <first_editor relative-caret-position="7176">
             <caret line="312" column="1" selection-start-line="312" selection-start-column="1" selection-end-line="312" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="254">
+            <caret line="152" column="25" lean-forward="true" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/容器/Docker基础操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="70">
+            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
