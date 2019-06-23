@@ -153,10 +153,14 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [代理模式](设计模式/代理模式.md)
   - [适配器模式](设计模式/适配器模式.md)
 
-- Redis
+- redis
+  - [redis基础](redis/redis基础.md)
 
 - MQ
 
+- Swoole
+  - [Swoole的进程模型](Swoole/Swoole的进程模型.md)
+  
 - 容器
   - [Docker基础操作](容器/Docker基础操作.md)
 
