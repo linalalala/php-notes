@@ -8,12 +8,12 @@
 - [Hash类型操作](#Hash类型操作)
 - [List类型操作](#List类型操作)
 - [Set类型操作](#Set类型操作)
-- [Sorted Set类型操作](#Sorted Set类型操作)
+- [SortedSet类型操作](#SortedSet类型操作)
 - [PHP操作String类型](#PHP操作String类型)
 - [PHP操作Hash类型](#PHP操作Hash类型)
 - [PHP操作List类型](#PHP操作List类型)
 - [PHP操作Set类型](#PHP操作Set类型)
-- [PHP操作Sorted Set类型](#PHP操作Sorted Set类型)
+- [PHP操作SortedSet类型](#PHP操作SortedSet类型)
 
 ### 介绍
 ```
@@ -121,7 +121,7 @@ sdiff key1 key2 [key ...]|返回指定list的差集
 sdiffstore dstkey key1 key2 [key ...]|同sdiff,并同时把差集保存到dstkey中
 smembers key|返回set的所有元素,结果是无序的
 
-### Sorted Set类型操作
+### SortedSet类型操作
 有序集合类型, 集合中每个元素都关联了一个分数, 通过这个分数来对元素进行从小到大的排序, 有序集合中元素不可重复但是分数可以重复  
 如果有两个元素的score相同的话, 则按照value来排序  
 应用场景: 数据排序  
@@ -264,7 +264,7 @@ array(3) {
   string(4) "val2"
 }
 ```
-### PHP操作Sorted Set类型
+### PHP操作SortedSet类型
 ```php
 // 连接redis
 $redis = new \Redis();
