@@ -155,6 +155,7 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
 
 - redis
   - [redis基础](redis/redis基础.md)
+  - [redis持久化](redis/redis持久化.md)
 
 - MQ
 
