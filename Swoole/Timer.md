@@ -1,5 +1,6 @@
 # Timer
-毫秒精度的定时器。
+毫秒精度的定时器。  
+官方文档：https://wiki.swoole.com/wiki/page/p-timer.html
 
 ## 目录
 - [Timer的初步使用](#Timer的初步使用)
