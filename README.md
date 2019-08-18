@@ -161,6 +161,7 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
 
 - Swoole
   - [Swoole的进程模型](Swoole/Swoole的进程模型.md)
+  - [Timer](Swoole/Timer.md)
   
 - 容器
   - [Docker基础操作](容器/Docker基础操作.md)
