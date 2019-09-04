@@ -1,12 +1,14 @@
 # Timer
-毫秒精度的定时器。  
-官方文档：https://wiki.swoole.com/wiki/page/p-timer.html
 
 ## 目录
+- [介绍](#介绍)
 - [Timer的初步使用](#Timer的初步使用)
 - [应用场景](#应用场景)
 - [参考](#参考)
 
+### 介绍
+毫秒精度的定时器。  
+官方文档：https://wiki.swoole.com/wiki/page/p-timer.html
 
 ### Timer的初步使用
 tick：设置一个间隔时钟定时器。
