@@ -27,6 +27,7 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [找出文本中含有'linux'的行,如何统计共有多少行](Linux/找出文本中含有'linux'的行,如何统计共有多少行.md)
   - [free命令](Linux/free命令.md)
   - [top命令](Linux/top命令.md)
+  - [curl](Linux/curl.md)
 
 - 计算机网络
   - [计算机网络体系结构](计算机网络/计算机网络体系结构.md)
@@ -164,6 +165,7 @@ Linux、计算机网络、数据结构、算法、PHP、MySQL、设计模式、R
   - [Timer](Swoole/Timer.md)
   - [异步Task](Swoole/异步Task.md)
   - [基于websocket实现多人聊天室](Swoole/基于websocket实现多人聊天室.md)
+  - [HTTP](Swoole/HTTP.md)
   
 - 容器
   - [Docker基础操作](容器/Docker基础操作.md)
