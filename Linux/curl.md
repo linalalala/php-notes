@@ -29,3 +29,8 @@ curl -X POST -d 'param1=val1&param2=val2' http://www.baidu.com
 # -H参数等同于--header参数，表示要发送到服务端的自定义请求头
 curl -H 'Content-Type:application/json' -d 'param1=val1&param2=val2' http://www.baidu.com
 ```
+cookie
+```bash
+# --cookie参数让curl发送cookie
+curl --cookie 'cookieKey=cookieValue' -d -d 'param1=val1&param2=val2' http://www.baidu.com
+```
