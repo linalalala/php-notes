@@ -2,7 +2,7 @@
 
 ## 目录
 - [取出Nginx日志里访问量前N的IP地址](#取出Nginx日志里访问量前N的IP地址)
-- [取出Nginx日志里访问量前N的IP地址](#取出Nginx日志里访问量前N的IP地址)
+- [批量终止进程](#批量终止进程)
 
 ### 取出Nginx日志里访问量前N的IP地址
 access.log内容如下：
@@ -24,7 +24,7 @@ awk '{print $1}' access.log | sort | uniq -c | sort -nr -k1 | head -n N
 ```
 命令说明：  
 
-打印第一个字段：
+打印第1列：
 ```bash
 # 将一行中的内容以空格为分隔符，打印第一列
 awk '{print $1}' access.log
@@ -74,3 +74,35 @@ $ awk '{print $1}' access.log | sort | uniq -c | sort -nr -k1 | head -n 2
       3 222.178.10.178
 ```
 
+### 批量终止进程
+目前进程如下：
+```bash
+$ ps aux | grep test.php
+root      1022  0.2  1.0 262436 21188 pts/3    S+   14:32   0:00 php test.php
+root      1023  0.2  1.0 262436 21024 pts/2    S+   14:32   0:00 php test.php
+root      1025  0.0  0.0   9096   820 pts/1    R+   14:32   0:00 grep --color=auto test.php
+```
+系统运行了2个test.php相关的进程，使用下面的命令可以批量杀死这两个进程：
+```bash
+ps aux | grep test.php | grep -v grep |awk '{print $2}'| xargs kill -9
+```
+命令说明：  
+
+grep -v中的-v参数是反向选择，选择不匹配grep的行：
+```bash
+# ps aux命令返回的进程列表的第二列是进程ID
+$ ps aux | grep test.php | grep -v grep
+root      1022  0.0  1.0 262436 21188 pts/3    S+   14:32   0:00 php test.php
+root      1023  0.0  1.0 262436 21024 pts/2    S+   14:32   0:00 php test.php
+```
+将一行中的内容以空格为分隔符，打印第2列：
+```bash
+$ ps aux | grep test.php | grep -v grep |awk '{print $2}'
+1022
+1023
+```
+xargs命令的作用，是将标准输入转为命令行参数。
+```bash
+# 将前面的进程ID作为命令行参数传给kill -9命令
+ps aux | grep test.php | grep -v grep |awk '{print $2}'| xargs kill -9
+```
